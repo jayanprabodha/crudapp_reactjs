@@ -5,10 +5,10 @@ Simple CRUD app in React (without database)
 * Edit an existing user
 
 
-1 Step :
-npm create-react-app my-app
-cd my-app
-run : npm-start
+1 Step : <br>
+npm create-react-app my-app<br>
+cd my-app<br>
+run : npm-start<br>
 
 2 Step :
 npm install --save bootstrap
